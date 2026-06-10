@@ -1,3 +1,0 @@
-# Non
-!
-Author Atharv Patil
