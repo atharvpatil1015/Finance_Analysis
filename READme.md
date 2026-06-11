@@ -55,7 +55,7 @@ This project is an interactive Finance Analysis Dashboard developed using Power 
 ## Dashboard Preview
 Add your dashboard screenshot here:
 
-![Dashboard Preview](Images/dashboard.png)
+![Dashboard Preview](./Images/dashboard.png)
 
 ## Future Enhancements
 - Financial Forecasting
